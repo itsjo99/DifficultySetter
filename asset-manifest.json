@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DifficultySetter/static/css/main.cf9c18ae.css",
+    "main.js": "/DifficultySetter/static/js/main.7015cd8b.js",
+    "index.html": "/DifficultySetter/index.html",
+    "main.cf9c18ae.css.map": "/DifficultySetter/static/css/main.cf9c18ae.css.map",
+    "main.7015cd8b.js.map": "/DifficultySetter/static/js/main.7015cd8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf9c18ae.css",
+    "static/js/main.7015cd8b.js"
+  ]
+}
