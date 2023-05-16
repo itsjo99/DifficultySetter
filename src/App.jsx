@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { DisplayDifficulty } from "./Components/DisplayDifficulty/DisplayDifficulty";
 import { MenuList } from "./Components/MenuList/MenuList";
-import { MenuListItem } from "./Components/MenuListItem/MenuListItem";
 import s  from "./style.module.css"
 
 export function App(){
